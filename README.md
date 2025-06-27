@@ -1,7 +1,7 @@
 RooTooth
 ========
 
-[![RooTooth](https://dlnmh9ip6v2uc.cloudfront.net//images/products/1/0/9/8/0/10980-01.jpg)  
+[![RooTooth](https://cdn.sparkfun.com/assets/parts/6/2/1/2/10980-01.jpg)  
 *RooTooth (DEV-12581)*](https://www.sparkfun.com/products/12581)
 
 This is a cable-less solution developed for controlling your Roomba. The RooTooth v2 communicates with any Bluetooth&copy; enabled device using the Serial Port Profile (SPP). 
